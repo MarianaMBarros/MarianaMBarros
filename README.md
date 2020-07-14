@@ -5,7 +5,7 @@
 
 ### Bem vindos ao meu Perfil! 👋        
 
-Jr. Front-End Developer Estudante - Laboratória
+Desenvolvedora Front-End Estudante - Laboratória
 
 <img src='https://media.giphy.com/media/wTOjFHUPzl7SE/giphy.gif'> 
 
