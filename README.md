@@ -7,9 +7,8 @@
 
 Jr. Front-End Developer Estudante - Laboratória
 
-<p >
 <img src='https://media.giphy.com/media/wTOjFHUPzl7SE/giphy.gif'> 
-</p>
+
 
 ![](name-of-giphy.gif)
 
