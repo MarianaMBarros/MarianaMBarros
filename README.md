@@ -1,5 +1,6 @@
 # Mariana Barros :woman_technologist:
 
+
 <a href="https://www.linkedin.com/in/marianambarros/">
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
@@ -21,6 +22,8 @@ Desenvolvedora Front-End - Estudante na Laboratória
  - :yellow_heart:   Amando JavaScript
  - :rocket:   Novas experiências com React
  - :airplane:  Expectativas maravilhosas sobre futuro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+ ---
  
- 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Adoro me conectar com pessoas diferentes, por isso, se você quiser dizer oi, ficarei feliz em conhecê-lo mais! :blush:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">Adoro me conectar com pessoas diferentes, por isso, se você quiser dizer oi, ficarei feliz em conhecê-lo mais! :blush:     
+
+---
