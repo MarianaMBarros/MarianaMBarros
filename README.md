@@ -7,7 +7,7 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a> <br>          
 
-### Bem vindos ao meu Perfil! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">       
+## Bem vindos ao meu Perfil! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">       
 
 #### _Um pouco mais sobre mim..._      
 Sempre curiosa para aprender e amando a área de tecnologia, muito entusiasmada com desenvolvimento web.  
