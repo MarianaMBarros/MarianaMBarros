@@ -24,8 +24,8 @@ Tive a possibilidade de estagiar e vivenciar uma parte de um mundo tão vasto de
 
 ![](name-of-giphy.gif)
 
- - :yellow_heart:  Estudante de Front-End 
- - :rocket:   Novas experiências com React
+ - :yellow_heart:  Estudante de Front-End, porém curiosa adoro ter novas experiências.
+ - :rocket:  Aprimorando os conhecimentos para ser uma desenvolvedora.
  - :airplane:  Expectativas maravilhosas sobre futuro <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  ---
  
