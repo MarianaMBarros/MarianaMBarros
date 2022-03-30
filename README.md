@@ -10,7 +10,7 @@ E foi aí que em uma conversa com alguns amigos que trabalham na área me inspir
 Tive a possibilidade de estagiar e vivenciar uma parte de um mundo tão vasto de programação. Neste processo o desenvolvimento web, front-end, foi o que me despertou maior interesse, já que me possibilita usar meu lado criativo e solução de problemas.
 
 
-<img src='https://media.giphy.com/media/wTOjFHUPzl7SE/giphy.gif'> 
+<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ladobe.com.mx%2F2021%2F10%2Fenviado-el-25-10-2021-cuando-terminara-la-vacunacion-en-puebla%2F&psig=AOvVaw3SkLX8MUPwh97ayfIwRojQ&ust=1648729217112000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjE7ZDp7fYCFQAAAAAdAAAAABAX'> 
 
 
 ![](name-of-giphy.gif)
