@@ -1,6 +1,6 @@
 # Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,eu sou a Mariana :woman_technologist:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarianaMBarros&color=blueviolet" alt="Profile views" /> </p>
+*/<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarianaMBarros&color=blueviolet" alt="Profile views" /> </p>*/
 
 ## Bem vindos ao meu Perfil!        
 
