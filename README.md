@@ -1,6 +1,8 @@
 # Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou a Mariana :woman_technologist:
 
- - 🔭 Atualmente estou trabalhando no Safra
+- 🔥 Analista de Sistema Junior 
+ 
+- 🔭 Atualmente trabalhando no Safra
  
 - 🌱 Aprendendo **JavaScript, ReactJS, AngularJS, NodeJS**
 
@@ -25,6 +27,10 @@
 <p align="center" style="background:blue">
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
   <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+ 
+ <a href="https://marianambarros.github.io/portifolio/" target="_blank">
+  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=site" alt="site"/>
 </a>
 </p>
 
