@@ -20,11 +20,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-##
+## 👩🏻 &nbsp;Social Links
 
 <p align="center" style="background:blue">
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
-  <img  src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
