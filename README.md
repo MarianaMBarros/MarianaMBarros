@@ -6,8 +6,6 @@
  
 - 🌱 Aprendendo **JavaScript, ReactJS, AngularJS, NodeJS**
 
-- 🚀 [Portifolio](https://marianambarros.github.io/portifolio/)
-
 - ⚡ Curiosidade eu **❤️️🍫**
 
 
@@ -29,7 +27,7 @@
   <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=estrela" alt="estrela"/>
 </a>
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
-  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img  align="left" src="https://img.shields.io/badge/-Portifólio-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> 
 </p>
 
