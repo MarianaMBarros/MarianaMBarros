@@ -23,10 +23,7 @@ Tive a possibilidade de estagiar e vivenciar uma parte de um mundo tão vasto de
 ##
 
 <p align="center" style="background:blue">
-  <a href="https://instagram.com/birobirobiro" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://linkedin.com/in/birobirobiro" target="_blank">
+<a href="https://linkedin.com/in/marianambarros" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
