@@ -25,12 +25,11 @@
 ## 👩🏻 &nbsp;Social Links
 
 <p align="center" style="background:blue">
+ <a href="https://marianambarros.github.io/portifolio/" target="_blank">
+  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=estrela" alt="estrela"/>
+</a>
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
   <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
- 
- <a href="https://marianambarros.github.io/portifolio/" target="_blank">
-  <img  align="left" 📔 src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=estrela" alt="estrela"/>
-</a>
+</a> 
 </p>
 
