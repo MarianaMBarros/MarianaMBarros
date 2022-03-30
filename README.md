@@ -24,7 +24,7 @@ Tive a possibilidade de estagiar e vivenciar uma parte de um mundo tão vasto de
 
 <p align="center" style="background:blue">
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-birobirobiro-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
