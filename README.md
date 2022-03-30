@@ -30,7 +30,7 @@
 </a>
  
  <a href="https://marianambarros.github.io/portifolio/" target="_blank">
-  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=tecnologia" alt="tecnologia"/>
+  <img  align="left" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=estrela" alt="estrela"/>
 </a>
 </p>
 
