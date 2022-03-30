@@ -24,7 +24,7 @@
 
 <p align="center" style="background:blue">
 <a href="https://linkedin.com/in/marianambarros" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img  src="https://img.shields.io/badge/-MarianaMBarros-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 </p>
 
