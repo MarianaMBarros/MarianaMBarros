@@ -20,14 +20,6 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-<br>
-
-<p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marianambarros&show_icons=true&theme=nightowl" alt="mary's stats"/>
-</p>
-
-
 ##
 
 <p align="center" style="background:blue">
