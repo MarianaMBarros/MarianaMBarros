@@ -1,24 +1,32 @@
 # Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,eu sou a Mariana :woman_technologist:
 
+<img align="right" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/blob/master/animation_500_kv8i962g.gif?raw=true"/>
 
-#### _Um pouco mais sobre mim..._      
-Eu sempre achei que meu  maior sonho estaria voltado para o mundo da moda, vendo formas e jeitos diferentes de renovação, sempre senti que poderia me desafiar 
-e ansiava por conhecimento algo diferente que pudesse  usar minha parte criativa.
+ -🔭 Atualmente estou trabalhando no Safra
+ 
+- 🌱 Atualmente estou aprendendo **JavaScript, ReactJS, AngularJS, NodeJS**
 
-E foi aí que em uma conversa com alguns amigos que trabalham na área me inspirou a mudar de profissão.  A partir dai comecei a pesquisar e ver um curso na área, ingressei na graduação em Ciências da Computação pela Universidade Nove de Julho e me apaixonei. 
-
-Tive a possibilidade de estagiar e vivenciar uma parte de um mundo tão vasto de programação. Neste processo o desenvolvimento web, front-end, foi o que me despertou maior interesse, já que me possibilita usar meu lado criativo e solução de problemas.
+- 🚀 [Portifolio](https://marianambarros.github.io/portifolio/)
 
 
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![React](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angularjs)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+## ⚙️ &nbsp;GitHub Analytics
+<br>
+
+<p align="center">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=marianambarros&show_icons=true&theme=nightowl" alt="mary's stats"/>
+</p>
+
 
 ##
 
