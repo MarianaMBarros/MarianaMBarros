@@ -6,7 +6,7 @@
 
 - 🚀 [Portifolio](https://marianambarros.github.io/portifolio/)
 
-- ⚡ Curiosidade eu  **I ❤️️🍫**
+- ⚡ Curiosidade eu **❤️️🍫**
 
 
 ## 🛠 &nbsp;Tech Stack
