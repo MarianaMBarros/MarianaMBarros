@@ -2,7 +2,7 @@
 
  - 🔭 Atualmente estou trabalhando no Safra
  
-- 🌱 Atualmente estou aprendendo **JavaScript, ReactJS, AngularJS, NodeJS**
+- 🌱 Aprendendo **JavaScript, ReactJS, AngularJS, NodeJS**
 
 - 🚀 [Portifolio](https://marianambarros.github.io/portifolio/)
 
