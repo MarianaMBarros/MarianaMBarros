@@ -1,4 +1,4 @@
-# Mariana Barros :woman_technologist:
+# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ,eu sou a Mariana :woman_technologist:
 
 
 <a href="https://www.linkedin.com/in/marianambarros/">
@@ -8,7 +8,7 @@
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
  </a> <br>          
 
-## Bem vindos ao meu Perfil! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">       
+## Bem vindos ao meu Perfil!        
 
 #### _Um pouco mais sobre mim..._      
 Eu sempre achei que meu  maior sonho estaria voltado para o mundo da moda, vendo formas e jeitos diferentes de renovação, sempre senti que poderia me desafiar 
