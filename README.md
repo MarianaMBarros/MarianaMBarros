@@ -1,4 +1,4 @@
-# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50px">, eu sou a Mariana :woman_technologist:
+# Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, eu sou a Mariana :woman_technologist:
 
 - 🔥 Analista de Sistema Junior 
  
